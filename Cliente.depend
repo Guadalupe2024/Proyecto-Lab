@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1711129152 source:c:\users\richa\documents\desktop\codigo lb\cliente\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1711129152 c:\users\richa\documents\desktop\codigo lb\cliente\include\cliente.h
+	<iostream>
+	<string.h>
+
+1711129152 c:\users\richa\documents\desktop\codigo lb\cliente\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
+1711129152 c:\users\richa\documents\desktop\codigo lb\cliente\include\pago.h
+	<string.h>
+	"Fecha.h"
+
+1711129152 c:\users\richa\documents\desktop\codigo lb\cliente\include\fecha.h
+	<iostream>
+
+1711129152 source:c:\users\richa\documents\desktop\codigo lb\cliente\src\cliente.cpp
+	"Cliente.h"
+
+1711129152 source:c:\users\richa\documents\desktop\codigo lb\cliente\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711129151 source:c:\users\richa\documents\desktop\codigo lb\cliente\src\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1711129152 source:c:\users\richa\documents\desktop\codigo lb\cliente\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
